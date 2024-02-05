@@ -10,6 +10,7 @@ const Signup = (props: Props) => {
     <Button>Test for GIGA SHADCN</Button>
     <div className='text-4xl  font-bold mt-5'>Test Merge Branch!</div>
     
+    <div className='text-4xl font-bold mt-5'>I want to update this branch with changes from Main branch.</div>
   </div>
   )
 }
